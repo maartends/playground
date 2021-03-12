@@ -49,4 +49,4 @@ else Unlink
     deactivate mh
 end
 
-@enduml vrt-events-essence
+@enduml
