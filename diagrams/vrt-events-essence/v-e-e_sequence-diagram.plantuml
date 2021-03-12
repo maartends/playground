@@ -48,3 +48,5 @@ else Unlink
     mh --> vee: Return result
     deactivate mh
 end
+
+@enduml vrt-events-essence
